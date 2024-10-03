@@ -1,0 +1,14 @@
+.screen {
+  display: flex;
+  flex-direction: row;
+  width: 100px;
+  height: 100px;
+}
+.screenleft {
+  width: 10%;
+  float: left;
+}
+.screenright {
+  width: 90%
+  float: rigth;
+}
